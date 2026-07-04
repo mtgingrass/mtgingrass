@@ -1,6 +1,6 @@
-## Mark Gingrass — Solutions Architect & Product Leader
+## Mark Gingrass — Aspring Solutions Architect & Product Leader
 
-*Air Force enlisted → GS-14 federal program leader. 20+ years building and shipping things that matter.*
+*Air Force enlisted to GS-14 federal program leader. 20+ years building and shipping software, solving logists puzzles, and data wrangling the supply chain.*
 
 GS-14 Program Manager at the FDA, running enterprise systems for 400+ regulatory scientists. CS + MBA. Staying technical enough to be useful at the whiteboard, not just present in the room. Currently pursuing AWS Solutions Architect – Associate while running production AWS infrastructure.
 
