@@ -19,7 +19,7 @@ Built and deployed end-to-end with AWS CDK (TypeScript). Production, not a sandb
 | Automation | EventBridge cron → Lambda → SES | Daily vaccination-expiry reminders |
 | IaC | AWS CDK (TypeScript) | `RemovalPolicy.RETAIN` on all user data |
 
-I first built the VPC + EC2 + ALB + Auto Scaling + Aurora architecture as SAA-C03 prep — then made the production call to go serverless. Near-zero idle cost. No servers to patch.
+I built the VPC + EC2 + ALB + Auto Scaling + Aurora architecture as SAA-C03 prep. Integrated AI Agent workflows into the entire process. Then made the production call to go serverless.
 
 ---
 
